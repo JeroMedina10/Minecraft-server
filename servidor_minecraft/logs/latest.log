@@ -1,43 +1,43 @@
-[01:56:02] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
-[01:56:02] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.15 by Ubuntu
-[01:56:02] [main/INFO]: OptiFineTransformationService.onLoad
-[01:56:02] [main/INFO]: OptiFine ZIP file URL: union:/workspaces/Minecraft-server/servidor_minecraft/mods/OptiFine-1.17.1_HD_U_H2_pre1.jar%2325!
-[01:56:02] [main/INFO]: OptiFine ZIP file: /workspaces/Minecraft-server/servidor_minecraft/mods/OptiFine-1.17.1_HD_U_H2_pre1.jar
-[01:56:02] [main/INFO]: Target.PRE_CLASS is available
-[01:56:03] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/Minecraft-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
-[01:56:03] [main/INFO]: OptiFineTransformationService.initialize
-[01:56:03] [main/INFO]: Found mod file appleskin-forge-mc1.17.1-2.5.1.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file balm-1.8.2+0.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file BetterThirdPerson-Forge-1.17.1-1.5.2.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file carryon-1.17.1-1.16.0.6.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file corpse-1.17.1-1.0.7.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file DungeonCrawl-1.17.1-2.3.12.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file dungeons_enhanced-1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file FallingTree-1.17.1-2.14.6.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file geckolib-1.17.1-forge-3.0.15.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file jei-1.17.1-8.3.1.1002.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file kotlinforforge-2.2.0-obf.jar of type LANGPROVIDER with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file morevillagers-FORGE-1.17-2.1.1.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file mowziesmobs-1.5.26.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file sophisticatedbackpacks-1.17.1-3.12.3.496 (1).jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file structure_gel-1.17.1-2.0.1.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file tl_skin_cape_forge_1.17.1-1.19.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file voicechat-forge-1.17.1-2.5.12.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file waystones-8.2.0+0.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file Xaeros_Minimap_23.9.7_Forge_1.17.1 (1).jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
-[01:56:03] [main/INFO]: Found mod file fmlcore-1.17.1-37.1.1.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
-[01:56:03] [main/INFO]: Found mod file javafmllanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
-[01:56:03] [main/INFO]: Found mod file mclanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
-[01:56:03] [main/INFO]: Found mod file server-1.17.1-20210706.113038-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
-[01:56:03] [main/INFO]: Found mod file forge-1.17.1-37.1.1-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
-[01:56:04] [main/INFO]: OptiFineTransformationService.transformers
-[01:56:04] [main/INFO]: Targets: 336
-[01:56:04] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
-[01:56:05] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[01:56:05] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
-[01:56:05] [main/FATAL]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[01:56:05] [main/WARN]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[01:56:05] [main/WARN]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[01:56:06] [main/WARN]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[01:56:06] [main/WARN]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[01:56:06] [main/FATAL]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[05:49:53] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[05:49:53] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.15 by Ubuntu
+[05:49:55] [main/INFO]: OptiFineTransformationService.onLoad
+[05:49:55] [main/INFO]: OptiFine ZIP file URL: union:/workspaces/Minecraft-server/servidor_minecraft/mods/OptiFine-1.17.1_HD_U_H2_pre1.jar%2325!
+[05:49:55] [main/INFO]: OptiFine ZIP file: /workspaces/Minecraft-server/servidor_minecraft/mods/OptiFine-1.17.1_HD_U_H2_pre1.jar
+[05:49:55] [main/INFO]: Target.PRE_CLASS is available
+[05:49:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/Minecraft-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
+[05:49:55] [main/INFO]: OptiFineTransformationService.initialize
+[05:49:56] [main/INFO]: Found mod file appleskin-forge-mc1.17.1-2.5.1.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file balm-1.8.2+0.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file BetterThirdPerson-Forge-1.17.1-1.5.2.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file carryon-1.17.1-1.16.0.6.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file corpse-1.17.1-1.0.7.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file DungeonCrawl-1.17.1-2.3.12.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file dungeons_enhanced-1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file FallingTree-1.17.1-2.14.6.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file geckolib-1.17.1-forge-3.0.15.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file jei-1.17.1-8.3.1.1002.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file kotlinforforge-2.2.0-obf.jar of type LANGPROVIDER with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file morevillagers-FORGE-1.17-2.1.1.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file mowziesmobs-1.5.26.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file sophisticatedbackpacks-1.17.1-3.12.3.496 (1).jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file structure_gel-1.17.1-2.0.1.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file tl_skin_cape_forge_1.17.1-1.19.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file voicechat-forge-1.17.1-2.5.12.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file waystones-8.2.0+0.jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file Xaeros_Minimap_23.9.7_Forge_1.17.1 (1).jar of type MOD with locator {mods folder locator at /workspaces/Minecraft-server/servidor_minecraft/mods}
+[05:49:56] [main/INFO]: Found mod file fmlcore-1.17.1-37.1.1.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
+[05:49:56] [main/INFO]: Found mod file javafmllanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
+[05:49:56] [main/INFO]: Found mod file mclanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
+[05:49:56] [main/INFO]: Found mod file server-1.17.1-20210706.113038-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
+[05:49:56] [main/INFO]: Found mod file forge-1.17.1-37.1.1-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@183e8023
+[05:49:57] [main/INFO]: OptiFineTransformationService.transformers
+[05:49:57] [main/INFO]: Targets: 336
+[05:49:58] [main/INFO]: additionalClassesLocator: [optifine., net.optifine.]
+[05:50:00] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[05:50:00] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
+[05:50:01] [main/FATAL]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[05:50:01] [main/WARN]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[05:50:01] [main/WARN]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[05:50:01] [main/WARN]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[05:50:01] [main/WARN]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[05:50:02] [main/FATAL]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
