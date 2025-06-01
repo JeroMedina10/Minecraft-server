@@ -1094,3 +1094,10 @@ com.google.gson.JsonSyntaxException: Missing type, expected to find a string
 [23:08:56] [Server thread/INFO]: JeroMedina10 lost connection: Timed out
 [23:08:56] [Server thread/INFO]: JeroMedina10 left the game
 [23:08:56] [Server thread/INFO]: [voicechat] Disconnecting client JeroMedina10
+[23:10:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c93392d[id=<null>,name=JeroMedina10,properties={},legacy=false] (/127.232.128.169:35255) lost connection: Disconnected
+[23:12:28] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@e5b9c43[id=<null>,name=JeroMedina10,properties={},legacy=false] (/127.232.128.169:52491): Took too long to log in
+[23:12:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@e5b9c43[id=<null>,name=JeroMedina10,properties={},legacy=false] (/127.232.128.169:52491) lost connection: Took too long to log in
+[23:12:28] [Server thread/WARN]: handleDisconnection() called twice
+[23:13:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2e4153dc[id=<null>,name=JeroMedina10,properties={},legacy=false] (/127.232.128.169:60029): Took too long to log in
+[23:13:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e4153dc[id=<null>,name=JeroMedina10,properties={},legacy=false] (/127.232.128.169:60029) lost connection: Took too long to log in
+[23:13:09] [Server thread/WARN]: handleDisconnection() called twice
